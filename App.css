@@ -1,0 +1,111 @@
+.header {
+  padding: 0;
+}
+.languages {
+  color: white;
+  margin-left: 2px;
+  font-style: oblique;
+  font-size: 17;
+  font-family: "Times New Roman";
+}
+.inSelDiv {
+  margin: 4px 0;
+  background: yellowgreen;
+}
+.inSelIcon {
+  padding: 8px;
+  cursor: pointer;
+  color: yellow;
+}
+.upload {
+  position: absolute;
+  top: 16px;
+  right: 330px;
+  color: white;
+  font-size: 30px;
+}
+.download {
+  position: absolute;
+  top: 16px;
+  right: 290px;
+  color: white;
+  font-size: 30px;
+}
+.save {
+  position: absolute;
+  top: 16px;
+  right: 280px;
+  color: white;
+  font-size: 30px;
+}
+.newLanguage {
+  position: absolute;
+  top: 16px;
+  right: 210px;
+  color: white;
+  font-size: 20px;
+}
+.select {
+  position: absolute;
+  width: 140;
+  top: 16px;
+  right: 58px;
+}
+.trigger {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  color: white;
+  font-size: 30px;
+}
+.search {
+  height: 32px;
+  width: 200px;
+  top: 64px;
+  background: rgba(255, 255, 255, 0.2);
+  font-size: 10;
+}
+.switchDiv {
+  top: 96px;
+  height: 28px;
+  width: 200px;
+  font-size: 10;
+  color: white;
+  background-color: #001529;
+}
+.switch {
+  margin-left: 20;
+  margin-top: 2;
+}
+.switchText {
+  top: 96px;
+  height: 28px;
+  width: 200px;
+  font-size: 10;
+  margin-left: 20;
+  margin-top: 2;
+  color: white;
+}
+.menuDiv {
+  margin: 4px 0;
+  background-color: #203946;
+  padding: 2px;
+}
+.content {
+  padding: 24;
+  background-color: #fff;
+}
+.list-header {
+  font-size: 33;
+}
+.highlight {
+  background: yellow;
+  color: red;
+}
+.menuSider {
+  margin-top: 60;
+  margin-bottom: 10;
+}
+.uploadHiddenButton {
+  visibility: hidden;
+}
